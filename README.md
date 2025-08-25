@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Nolan
 
-Software developer with a B.Sc. in Information Technology and \~3 years of focused, self-directed development experience.
-Specialized in **TypeScript**, **developer tooling**, and **infrastructure automation**, with a strong foundation in **software design** and **computer science principles**.
-
-I enjoy building **internal libraries**, **CI/CD pipelines**, and **environment management solutions**. Comfortable across the full stack, with strengths in **backend engineering** and **tooling**.
+Software developer with a B.Sc. in Information Technology and ~3 years of self-directed development experience.
+Specialized in FullStack, TypeScript,developer tooling, and infrastructure, with a strong foundation in software design and computer science principles.
 
 ---
 
@@ -15,17 +13,16 @@ This profile is in progress — a polished portfolio site (via GitHub Pages) is 
 
 #### 📦 Core Tools
 
-* [**@toolbox-ts**](https://github.com/Gajdascz/toolbox-ts) — TypeScript utility monorepo with reusable, type-safe packages. Includes custom CLIs, ESLint configs, testing utilities, and GitHub Actions workflows.
+* 🚧 [**@toolbox-ts**](https://github.com/Gajdascz/toolbox-ts) — TypeScript utility monorepo with reusable, type-safe packages.
 
 #### 🌐 Web Projects
-
-* [**All**](https://github.com/Gajdascz/TheOdinProject) — Aggregation of all my web projects. Currently being separated and refactored.
+* [**ChatExpress**](https://github.com/Gajdascz/chat-express) — Fullstack messaging application with authentication and data management/persistence. Built with NodeJS, Express, and MongoDB.
 * [**Pokemem**](https://github.com/Gajdascz/Pokemem) — Pokémon memory game with rogue-like difficulty scaling and a custom save system using the pub/sub pattern.
+* [**All**](https://github.com/Gajdascz/TheOdinProject) — Aggregation of all my web projects. Currently being separated and refactored.
 
 ## 🧱 Skills
 - Core Languages: TypeScript • JavaScript • SQL
-- Frameworks & Libraries: React • Node.js • Express • Three.js
+- Frameworks & Libraries: React • Node.js • Express
 - Databases: PostgreSQL • MySQL • MongoDB
-- Tooling & DevOps: GitHub Actions • Monorepo Architecture • Git • Environment Automation • CI/CD
-- Software Design: OOP • Functional Programming • Design Patterns
-- Specialties: Developer Experience (DX) • Internal Tooling 
+- Tooling & DevOps: GitHub Actions • Monorepo Architecture • Git • CI/CD
+- Software Design: OOP • Functional Programming • Design Patterns • DSA
