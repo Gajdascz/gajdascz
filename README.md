@@ -1,19 +1,14 @@
 ## 👋 Hi, I'm Nolan
 
-Software developer with a B.Sc. in Information Technology and ~3 years of self-directed development experience.
-Specialized in FullStack, TypeScript,developer tooling, and infrastructure, with a strong foundation in software design and computer science principles.
+Software developer with a B.Sc. in Information Technology and ~3 years of self-directed development experience with a strong foundation in software design and computer science principles.
 
 ---
 
 ## 🚀 Projects
 
-### 🚧 Under Construction
+#### 📦 Tools
 
-This profile is in progress — a polished portfolio site (via GitHub Pages) is coming soon.
-
-#### 📦 Core Tools
-
-* 🚧 [**@toolbox-ts**](https://github.com/Gajdascz/toolbox-ts) — TypeScript utility monorepo with reusable, type-safe packages.
+* 🧰 [**@toolbox-ts**](https://github.com/Gajdascz/toolbox-ts) — TypeScript utility monorepo with reusable, type-safe packages.
 
 #### 🌐 Web Projects
 * [**ChatExpress**](https://github.com/Gajdascz/chat-express) — Fullstack messaging application with authentication and data management/persistence. Built with NodeJS, Express, and MongoDB.
